@@ -41,7 +41,7 @@
                                     </a>
                                                                     <li>
                                     <a href="#">
-                                        Careers
+                                        CAREERS
                                     </a>
                                     <ul>
                                         <li>
